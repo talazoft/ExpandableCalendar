@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WeekColumnView">
+        <attr name="textColor" format="reference|color" />
+        <attr name="backgroundColor" format="reference|color" />
+    </declare-styleable>
+    <declare-styleable name="ExpandableCalendarView">
+        <attr name="infoTextColor" format="reference|color" />
+        <attr name="infoBackgroundColor" format="reference|color" />
+        <attr name="weekTextColor" format="reference|color" />
+        <attr name="weekBackgroundColor" format="reference|color" />
+        <attr name="calendarBackgroundColor" format="reference|color" />
+        <attr name="currentDateTextColor" format="reference|color" />
+        <attr name="currentDateBackgroundColor" format="reference|color" />
+        <attr name="markedDateStyle" format="reference" />
+        <attr name="markedDateBackgroundColor" format="reference|color" />
+    </declare-styleable>
+</resources>
